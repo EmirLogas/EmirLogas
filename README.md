@@ -8,7 +8,6 @@
 <img alt="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
 <img alt="React Native" width="40px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" />
 <img alt="Flutter" width="40px" src="https://www.muratoner.net/wp-content/uploads/2019/01/flutterlogo.png" />
-<img alt="Github" width="40px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" />
 <img alt="C#" width="40px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
 <img alt="Kotlin" width="40px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />
 <img alt="Visual Studio" width="40px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />
