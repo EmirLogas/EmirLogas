@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://i.imgur.com/xcXDJ0N.jpeg" width="1080"/>
 </p>
-<p align="center">WELCOME Guest, I'm the administrator of this place and I’m Computer Engineer.</p>
+<p align="center">WELCOME Guest, I’m Computer Engineer.</p>
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
 <img alt="Android Studio" width="40px" src="https://cdn.worldvectorlogo.com/logos/android.svg" />
