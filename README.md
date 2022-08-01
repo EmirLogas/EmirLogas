@@ -1,7 +1,6 @@
 <p align="center">
     <img src="https://i.imgur.com/xcXDJ0N.jpeg" width="1080"/>
 </p>
-<p align="center">WELCOME Guest, I’m Computer Engineer.</p>
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
 <img alt=".Net Core" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
