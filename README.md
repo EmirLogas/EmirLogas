@@ -4,11 +4,12 @@
 <p align="center">WELCOME Guest, I’m Computer Engineer.</p>
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
+<img alt=".Net Core" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
+<img alt="C#" width="40px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
 <img alt="Android Studio" width="40px" src="https://cdn.worldvectorlogo.com/logos/android.svg" />
 <img alt="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
 <img alt="React Native" width="40px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" />
 <img alt="Flutter" width="40px" src="https://www.muratoner.net/wp-content/uploads/2019/01/flutterlogo.png" />
-<img alt="C#" width="40px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
 <img alt="Kotlin" width="40px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />
 <img alt="Visual Studio" width="40px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />
 <img alt="Intellij Idea" width="40px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/jetbrainstoolbox_93803.png" />
