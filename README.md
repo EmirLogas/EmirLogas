@@ -21,6 +21,5 @@
     <p>
         <a href="mailto:emirsa@tutanota.com"><img alt="Mail" width="40px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-mail-mail-vitaliy-gorbachev-lineal-color-vitaly-gorbachev-22.png"/></a>
         <a href="https://www.linkedin.com/in/emirsa/"><img alt="Linkedin" width="40px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" /></a>
-        <a href="https://github.com/EmirLogas"><img alt="Github" width="40px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" /></a>
     </p>
 </div>
