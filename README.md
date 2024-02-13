@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="https://i.imgur.com/xcXDJ0N.jpeg" width="1080"/>
-</p>
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
 <img alt=".Net Core" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
