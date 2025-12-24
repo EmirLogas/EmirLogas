@@ -9,10 +9,6 @@
 <img alt="Unity" height="40px" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" />
 <img alt="Github" height="40px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
 </p>
-<p align="center">
-    <img height="170px" alt="stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emirlogas&show_icons=true&theme=radical" />
-    <img height="170px" alt="stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=emirlogas&layout=compact&theme=radical" />
-</p>
 <h2 align="center">Contact me</h2>
 <div align="center">
     <p>
